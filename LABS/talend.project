@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_Bd-nMZ3wEe-s0tvgJN3ZJQ" label="labs" description="" language="java" technicalLabel="LABS" author="_Bd-nMp3wEe-s0tvgJN3ZJQ" productVersion="Talend Real-time Big Data Platform-8.0.1.20230719_1030-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/viir22/git-adminTraining.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_Bd-nMZ3wEe-s0tvgJN3ZJQ" label="labs" description="" language="java" technicalLabel="LABS" author="_Bd-nMp3wEe-s0tvgJN3ZJQ" productVersion="Talend Real-time Big Data Platform-8.0.1.20230719_1030-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/viir22/git-adminTraining.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_BggWwJ3wEe-s0tvgJN3ZJQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Bd-nMp3wEe-s0tvgJN3ZJQ" login="admin@company.com" firstName="Admin" lastName="Admin" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_EXJzwJ3wEe-s0tvgJN3ZJQ" login="gituser@company.com" firstName="Git" lastName="user" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
